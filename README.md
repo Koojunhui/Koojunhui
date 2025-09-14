@@ -6,4 +6,4 @@
 📫 Contact
 [이메일](mailto:junhui9789@gmail.com)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=junhui9789&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Koojunhui&show_icons=true&theme=radical)
