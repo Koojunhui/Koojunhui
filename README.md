@@ -12,7 +12,7 @@ I also developed **real-time chat and notification systems** using Spring WebSoc
 
 ---
 
-# 💼 Professional Experiences
+# 💼 Experiences
 - [멋쟁이사자처럼] 백엔드 부트캠프 플러스 3기 수료 (2024.12 ~ 2025.03)  
 - 2025 숭실대학교 ICT프로젝트 과정 수료 (2025.08.06 ~ 2025.08.30)  
 - 잇타 Backend 8기 (2025.09.06 ~ )  
